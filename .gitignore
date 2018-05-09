@@ -1,0 +1,12 @@
+# Backup Files
+*.bak
+
+# Automatic Save Files
+*.sv$
+
+# Temporary Files
+*.ac$
+
+# Drawing Lock Files
+*.dwl
+*.dwl2
